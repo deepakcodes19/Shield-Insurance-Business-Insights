@@ -1,6 +1,6 @@
 # **Shield Insurance Business Insights**  
 
-[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDhmZjIwYmMtZmM1Mi00OTAwLThiYTYtNzk3YzYxZDFlZDk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/rHQVx9y4g7Y) | [LinkedIn Post](URL)
+[Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDhmZjIwYmMtZmM1Mi00OTAwLThiYTYtNzk3YzYxZDFlZDk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [Presentation](https://youtu.be/rHQVx9y4g7Y) | [LinkedIn Post](https://www.linkedin.com/posts/deepakyadav19_dataanalytics-powerbi-businessinsights-activity-7266417046152728576-PSSO?utm_source=share&utm_medium=member_desktop)
  
 
 ### **About the Company**  
